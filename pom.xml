@@ -11,6 +11,7 @@
     <modules>
         <module>hdfs-examples</module>
         <module>mapreduce-examples</module>
+        <module>hbase-examples</module>
     </modules>
 
     <!-- aliyun镜像仓库 -->
