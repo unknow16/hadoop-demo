@@ -14,6 +14,7 @@
     <modules>
         <module>ct-producer</module>
         <module>ct-consumer</module>
+        <module>ct-analysis</module>
     </modules>
 
 </project>
